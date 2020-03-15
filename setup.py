@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='topsis_python',  
      version='0.1',
-     author="Ritik",
-     author_email="ritikgupta3008@gmail.com",
+     author="Raman",
+     author_email="sandeepooo153@gmail.com",
      description="topsis package in python",
      long_description=long_description,
    long_description_content_type="text/markdown",
