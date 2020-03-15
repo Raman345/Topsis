@@ -3,7 +3,7 @@ from util import *
 
 def main():
 	# create argument parser object
-	parser = argparse.ArgumentParser(description = "Weather Reporter")
+	parser = argparse.ArgumentParser(description = "Topsis")
 
 	parser.add_argument("-n", "--name", type = str, nargs = 1,
 	                    metavar = "name", default = None, help = "Name of csv file")
