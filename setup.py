@@ -9,7 +9,7 @@ setuptools.setup(
      description="topsis package in python",
      long_description=long_description,
    long_description_content_type="text/markdown",
-     url="https://github.com/rg3456/topsis_pck",
+     url="https://github.com/Raman345/Topsis",
      packages=['topsis_python'],
      classifiers=[
          "Programming Language :: Python :: 3",
